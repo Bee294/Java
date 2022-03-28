@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Bí kíp luyên rồng",
+    "category": "Gia đình| Trẻ em| Phim Mỹ| Chuyển thể từ sách",
+    "actor": "Jay | Craig| American",
+    "language": "English",
+    "publishingYear": 2022,
+    "publishCompany": "Universal pictures",
+    "time": 90
+  },
+  {
+    "id": 2,
+    "title": "Phù thủy xui xẻo",
+    "category": "Bí ẩn| Trẻ em| Phim Mỹ| Phim gia đình",
+    "actor": "Jay | Craig| American",
+    "language": "English",
+    "publishingYear": 2022,
+    "publishCompany": "Netflix",
+    "time": 90
+  },
+  {
+    "id": 3,
+    "title": "Erax",
+    "category": "Gia đình| Trẻ em| Phim Mỹ| Chuyển thể từ sách",
+    "actor": "Jay | Craig| American",
+    "language": "English",
+    "publishingYear": 2022,
+    "publishCompany": "Universal pictures",
+    "time": 90
+  }
+]
