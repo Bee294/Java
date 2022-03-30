@@ -34,14 +34,13 @@ public class Application {
                     phoneBookController.searchPhoneByName(phoneBookList, name);
                     break;
                 case 2:
-                    System.out.println("Thay đổi sđt: ");
-                    long id = sc.nextInt();
+
                     phoneBookController.insertPhone(phoneBookList, "");
 
                     break;
                 case 3:
                     System.out.println("Xóa số điện thoại: ");
-                    phoneBookController.deletedPhonebyId();
+                    phoneBookController.deletedPhoneByName(phoneBookList);
                     break;
                 case 4:
                     System.exit(0);
@@ -56,7 +55,7 @@ public class Application {
     private static void menu() {
         System.out.println("Chức năng: ");
         System.out.println("1. Tìm kiếm sđt theo tên");
-        System.out.println("2. Thay đổi số điện thoại");
+        System.out.println("2. Thêm số điện thoại mới");
         System.out.println("3. Xóa số điện thoại");
         System.out.println("4. Kết thúc chương trình");
     }
