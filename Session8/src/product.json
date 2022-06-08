@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "proName": "apple",
+    "proDesc": "ip13pm",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "proName": "samsung",
+    "proDesc": "note10",
+    "price": 2000
+  },
+  {
+    "id": 3,
+    "proName": "nokia",
+    "proDesc": "A320",
+    "price": 500
+  }
+]
